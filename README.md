@@ -1,2 +1,8 @@
-# todo-app
-A To-Do App lets users manage tasks efficiently by adding them to a list. Completed tasks can be marked as "done" with a strikethrough, and users can revert them to their default state by clicking again. This dynamic functionality makes it easy to track and update tasks, offering a seamless task management experience.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
