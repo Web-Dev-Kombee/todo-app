@@ -36,10 +36,10 @@ TODO-APP/
 ## 🖥️ Screenshots
 
 ### 📌 Todo List With Tasks
-![Tasks](assets/tasks.png)
+![Tasks](./public/assets/tasks.png)
 
 ### 📌 Empty State
-![Empty Tasks](assets/empty-tasks.png)
+![Empty Tasks](./public//assets/empty-tasks.png)
 
 ---
 
