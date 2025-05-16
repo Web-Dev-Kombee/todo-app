@@ -34,12 +34,8 @@ TODO-APP/
 ---
 
 ## 🖥️ Screenshots
-
-### 📌 Todo List With Tasks
-src/assets/tasks.png
-
-### 📌 Empty State
-src/assets/empty-tasks.png
+src\assets\empty-tasks.png
+src\assets\tasks.png
 
 ---
 
