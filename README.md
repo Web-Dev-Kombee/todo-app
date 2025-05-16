@@ -46,7 +46,7 @@ src/assets/empty-tasks.png
 ## 🛠️ Installation and Setup
 
 1. **Clone the repo:**
-   git clone https://github.com/Web-Dev-Kombee/task-manager.git
+   git clone https://github.com/Web-Dev-Kombee/todo-app.git
    cd todo-app
 2. **Install dependencies:**
     npm install
