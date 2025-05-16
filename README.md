@@ -35,7 +35,6 @@ TODO-APP/
 
 ## 🖥️ Screenshots
 
-
 ### 📌 Todo List With Tasks
 ![Tasks](assets/tasks.png)
 
@@ -47,7 +46,7 @@ TODO-APP/
 ## 🛠️ Installation and Setup
 
 1. **Clone the repo:**
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/Web-Dev-Kombee/todo-app.git
    cd todo-app
 2. **Install dependencies:**
     npm install
